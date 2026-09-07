@@ -135,7 +135,7 @@ export default function Base64Tool() {
 
   return (
     <div style={styles.root}>
-      <Header title="Base64 Encoder / Decoder" repoUrl={REPO_URL} />
+      <Header repoUrl={REPO_URL} />
       <div style={styles.content}>
       <div style={styles.header}>
         <h1 style={styles.title}>Base64 Encoder / Decoder</h1>
