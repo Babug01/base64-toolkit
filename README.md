@@ -1,5 +1,7 @@
 # Base64 Encoder / Decoder
 
+**Live demo:** https://babug01.github.io/base64-toolkit/
+
 Encode or decode Base64 (including the URL-safe alphabet) with correct UTF-8 handling — most
 browser demos of `btoa`/`atob` break the moment you paste an emoji or an accented character; this
 one doesn't. Runs entirely in the browser; nothing you paste ever leaves your machine.
